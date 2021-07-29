@@ -1,0 +1,16 @@
+TODOS:
+
+	- Integrate a main with `argc` & `argv`
+		* exemple f.t.p. :
+			int	main(int argc, char **argv)
+
+	- Test all cases
+		* exemple f.t.p. :
+		!!! rush( 0,  4); !!!
+			rush( 4,  0);
+			rush( 0,  0);
+			rush(-1, -1);
+	- ...
+
+
+f.t.p. : for this project

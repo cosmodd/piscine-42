@@ -1,0 +1,29 @@
+{
+	"files.associations": {
+		"*.h": "c",
+		"__node_handle": "c",
+		"string": "c",
+		"unordered_map": "c",
+		"vector": "c",
+		"__bit_reference": "c",
+		"__hash_table": "c",
+		"__string": "c",
+		"__undef_macros": "c",
+		"algorithm": "c",
+		"bitset": "c",
+		"chrono": "c",
+		"cmath": "c",
+		"istream": "c",
+		"limits": "c",
+		"locale": "c",
+		"ratio": "c",
+		"streambuf": "c",
+		"string_view": "c",
+		"complex": "c",
+		"__config": "c",
+		"__errc": "c",
+		"__locale": "c",
+		"__tuple": "c",
+		"ios": "c"
+	}
+}

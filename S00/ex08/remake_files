@@ -1,0 +1,6 @@
+touch test/test~
+touch test/other_test~
+touch test/#test#
+touch test/#other_test#
+touch test/test
+touch test/otherTest
